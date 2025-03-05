@@ -1,0 +1,9 @@
+{
+  "name": "@nikechukwu/doclint",
+  "version": "0.1.0",
+  "license": "MIT",
+  "lint": {
+    "plugins": ["./lint.ts"]
+  },
+  "exports": "./lint.ts"
+}

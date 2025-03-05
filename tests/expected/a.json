@@ -1,0 +1,11 @@
+[
+  {
+    "id": "doclint/todo",
+    "message": "TA101: Work on myself"
+  },
+  {
+    "id": "doclint/fixme",
+    "message": "Function adds two rather than one",
+    "hint": "See https://github.com/nikeokoronkwo/doclint for more info"
+  }
+]

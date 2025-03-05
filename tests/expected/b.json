@@ -1,0 +1,4 @@
+[
+    { "id": "doclint/todo", "message": "unimplemented " },
+    { "id": "doclint/fixme", "message": "buggy function" }
+]
