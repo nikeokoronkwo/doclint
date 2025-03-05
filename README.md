@@ -8,7 +8,7 @@ By integrating Doclint into your development workflow, you can maintain a cleane
 > Deno Lint Plugns require Deno 2.2
 Include the following in your lint plugins:
 
-```json
+```jsonc
 // ...
     "lints": {
         "plugins": [
